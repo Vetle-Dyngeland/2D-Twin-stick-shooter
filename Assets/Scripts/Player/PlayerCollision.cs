@@ -1,18 +1,9 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerCollision : MonoBehaviour
+namespace Project.Player
 {
-    // Start is called before the first frame update
-    void Start()
+    public class PlayerCollision : MonoBehaviour
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        //Collision
     }
 }
